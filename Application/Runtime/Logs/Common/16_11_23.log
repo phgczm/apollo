@@ -1,0 +1,24 @@
+[ 2016-11-23T10:12:02+08:00 ] 127.0.0.1 /blog/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Blog
+
+[ 2016-11-23T10:24:02+08:00 ] 127.0.0.1 /my
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:My
+
+[ 2016-11-23T11:27:47+08:00 ] 127.0.0.1 /baidu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Baidu
+
+[ 2016-11-23T14:27:37+08:00 ] 127.0.0.1 /blog/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Blog
+
